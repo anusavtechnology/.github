@@ -1,5 +1,5 @@
 
-![Logo](https://lh4.googleusercontent.com/BvIpAc_XBd59ZIlhh11tU9uBL0O_VTXRyvnb3Q1e2R60h1owj8yTNRoDkj5fyl90g9H0juZI1lbauzUI1sUQKqo=w16383)
+![Logo](https://lh4.googleusercontent.com/ZSLrDNqbYn2UMl65uApvlAaL6SG0ZNmDSLegjT244rHss8APSJqVK9AI5HTdpNPRNYc8MwpeoZ8b_V8hxfdKVlU=w16383)
 
 AnuSav Technolgy
 
@@ -8,9 +8,9 @@ We are working to turn our passion into Booming online Website/Apps. We hope you
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio]()
+[![linkedin](h)
+[![twitter]()
 
 
 ## Feedback
