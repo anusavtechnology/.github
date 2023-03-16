@@ -7,11 +7,6 @@ AnuSav  Technology is Professional App/Gamming company. Here we provide you only
 We are working to turn our passion into Booming online Website/Apps. We hope you will enjoy our Website/Apps as much as we enjoy offering them to you. 
 
 
-## 🔗 Links
-[![portfolio]()
-[![linkedin](h)
-[![twitter]()
-
 
 ## Feedback
 
