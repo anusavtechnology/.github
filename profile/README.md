@@ -1,5 +1,5 @@
 
-![Logo](https://lh4.googleusercontent.com/ZSLrDNqbYn2UMl65uApvlAaL6SG0ZNmDSLegjT244rHss8APSJqVK9AI5HTdpNPRNYc8MwpeoZ8b_V8hxfdKVlU=w16383)
+
 
 AnuSav Technolgy
 
