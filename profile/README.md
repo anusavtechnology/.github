@@ -11,7 +11,7 @@ We are working to turn our passion into Booming online Website/Apps. We hope you
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/8102188049@paytm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
+<p><a href="upi://pay?ver=01&mode=01&pa=rzr.qranuragkuma34451553@icic&pn=ANURAGKUMAR&tr=RZPLeVErrStV3uxnaqrv2&cu=INR&mc=5817&qrMedium=04&tn=PaymenttoANURAGKUMAR"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
 
 <p align="left">  Feedback</p>
 
