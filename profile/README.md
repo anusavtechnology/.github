@@ -13,9 +13,6 @@ We are working to turn our passion into Booming online Website/Apps. We hope you
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/8102188049@paytm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
 
-
-
-
 <p align="left">  Feedback</p>
 
 <h4 aligin="left">If you have any feedback, please reach out to us at infoanusav@gmail.com </h4>
