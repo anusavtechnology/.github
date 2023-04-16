@@ -4,7 +4,7 @@
 We are working to turn our passion into Booming online Website/Apps. We hope you will enjoy our Website/Apps as much as we enjoy offering them to you. 
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anusavtechnology&label=Profile%20views&color=0e75b6&style=flat" alt="anusavtechnology" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anusavtechnology&label=Profile%20views&color=0e75b6&style=flat" alt="anusavtechnology" /> </p>
 
 
 
