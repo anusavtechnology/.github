@@ -1,6 +1,6 @@
 <h1 align="center">Anusav Technolgy</h1>
 <h2 align="center">Explore Anusav World</h>
-<h3 align="center">AnuSav  Technology is Professional App/Gamming company. Here we provide you only Interesting content, which you will Love so much. We are dedicated to provide you the best Experience.
+<h3 align="left">AnuSav  Technology is Professional App/Gamming company. Here we provide you only Interesting content, which you will Love so much. We are dedicated to provide you the best Experience.
 We are working to turn our passion into Booming online Website/Apps. We hope you will enjoy our Website/Apps as much as we enjoy offering them to you. 
 </h3>
 
@@ -8,13 +8,13 @@ We are working to turn our passion into Booming online Website/Apps. We hope you
 
 
 
-<h3 align="center">Support:</h3>
+<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/8102188049@paytm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
 
 
 
 
-<p align="center">  Feedback</p>
+<p align="left">  Feedback</p>
 
-<h4 aligin="center">If you have any feedback, please reach out to us at infoanusav@gmail.com </h4>
+<h4 aligin="left">If you have any feedback, please reach out to us at infoanusav@gmail.com </h4>
 
