@@ -6,18 +6,15 @@ We are working to turn our passion into Booming online Website/Apps. We hope you
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anusavtechnology&label=Profile%20views&color=0e75b6&style=flat" alt="anusavtechnology" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-</p>
+
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/8102188049@paytm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/8102188049@paytm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="8102188049@paytm" /></a></p><br><br>
 
 
 
 
+<p align="center">  Feedback</p>
 
-## Feedback
-
-If you have any feedback, please reach out to us at infoanusav@gmail.com
+<h4 aligin="center">If you have any feedback, please reach out to us at infoanusav@gmail.com </h4>
 
